@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="NCP" src="https://edu.ncloud.com/public/img/certExam/NCP.png">
+![image](https://user-images.githubusercontent.com/49506753/187332783-b466a24f-da7c-40d5-b0a5-1cca172deeeb.png)
+
