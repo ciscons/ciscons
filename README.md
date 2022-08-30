@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://edu.ncloud.com/public/img/certExam/NCP.png"></img>
+<img alt="NCP" src="https://edu.ncloud.com/public/img/certExam/NCP.png">
