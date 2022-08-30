@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://user-images.githubusercontent.com/49506753/187332862-314d875b-65c9-43d6-91df-52c07fd04e90.png)
 ![image](https://user-images.githubusercontent.com/49506753/187332783-b466a24f-da7c-40d5-b0a5-1cca172deeeb.png)
 
