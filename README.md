@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 이수남입니다. 👋
 
 <!--
 **ciscons/ciscons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
