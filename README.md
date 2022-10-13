@@ -20,7 +20,9 @@
 
  ### 🛠 &nbsp;Technical Skills
    
-  ![Java](https://img.shields.io/badge/-Java-blueviolet?style=flat-square&logo=java&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;
+  ![C](https://img.shields.io/badge/-C-222222?style=flat-square&logo=C&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)&nbsp;
@@ -48,12 +50,14 @@
   ![Jira](https://img.shields.io/badge/-Jira-181717?style=flat-square&logo=Jira)&nbsp;
   ![Discord](https://img.shields.io/badge/-Discord-181717?style=flat-square&logo=Discord)&nbsp;
   ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-181717?style=flat-square&logo=Microsoft+Teams)&nbsp;
-  ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram)&nbsp;
+  ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram)&nbsp;\
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
   ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=gitkraken)&nbsp;\
   ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon+AWS)&nbsp;
-  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=Microsoft+Azure)&nbsp;
+  ![Naver Cloud](https://img.shields.io/badge/-Naver%20Cloud-6DB33F?style=flat-square)&nbsp;
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=Microsoft+Azure)&nbsp;\
+  ![Microsoft Exchange](https://img.shields.io/badge/-Microsoft%20Exchange-0078D4?style=flat-square&logo=Microsoft+Exchange)&nbsp;
   ![Microsoft Sharepoint](https://img.shields.io/badge/-Microsoft%20SharePoint-0078D4?style=flat-square&logo=Microsoft+SharePoint)&nbsp;
   
   
