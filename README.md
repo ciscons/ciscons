@@ -2,7 +2,7 @@
   <img src="https://github.com/ciscons/moregreen/blob/develop/src/main/resources/static/img/about/member05.png" height="200"/>
 </p>
 <hr>
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">개발자 이수남입니다.👋</h1>
+<h1 align="center">안녕하세요<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 신입 개발자 이수남입니다.👋</h1>
 <h3 align="center">Backend Developer</h3>
 </p>
 
